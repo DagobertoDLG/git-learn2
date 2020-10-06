@@ -1,2 +1,3 @@
 import math
-# Mi primer archivo
+import statistics
+# Mi primer archivo Chophiringuis
